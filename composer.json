@@ -47,7 +47,7 @@
     "ext-xml": "*",
     "composer/ca-bundle": "^1.1",
     "sabre/dav": "3.2.2",
-    "rmccue/requests": "v1.7.0",
+    "rmccue/requests": "v1.8.0",
     "smarty/smarty": "^v3.1.33",
     "phpmailer/phpmailer": "^v6.0.6",
     "ezyang/htmlpurifier": "v4.10.0",
